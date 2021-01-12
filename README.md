@@ -19,3 +19,9 @@ please create new issue on github for new feature or bugs.
 support at lomorage.com is the email.
 
 [slack channel](https://join.slack.com/t/lomorage/shared_invite/enQtODc4MTE5ODQzNzkyLTRlY2U4MTQ1YjczYjBhMDcwMmExYTUxNTg2NTE5YmRkZjg2ZWQwZjg1MjEwMjQzZWVjMmEwZjk3ZGIyODY4ODM)
+
+
+# others:
+## MacOS deploy:
+
+> brew install hub
