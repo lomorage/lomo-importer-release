@@ -23,6 +23,14 @@ if [[ "$orig_apk_file" == "" ]]; then
 fi
 
 
+### $3
+os=$3
+echo "os="$os
+if [[ "$os" == "" ]]; then
+    echo "please input os"
+	exit 2
+fi
+
 echo $orig_apk_file
 
 orig_apk_file_path=$orig_apk_path$orig_apk_file'.zip'
@@ -31,7 +39,7 @@ echo $orig_apk_file_path
 
 cp $orig_apk_file_path ./
 
-release_apk_file=$orig_apk_file$now.zip
+release_apk_file=$orig_apk_file$now'_'$os.zip
 
 echo $release_apk_file
 
