@@ -1,5 +1,10 @@
-# lomo-importer
-**Batch import tool like: import Google Photos to Lomorage**
+# lomo-importer-release: 
+
+**This repo is for release lomo-importer tool with binary:**
+
+# what is lomo-importer:
+
+> **Batch import tool like: import Google Photos to Lomorage**
 
 ## Eg: how to import from Google Photo
 ### **1. download your google photo from takeout.google.com**
