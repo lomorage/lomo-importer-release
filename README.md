@@ -1,6 +1,6 @@
 # lomo-importer-release: 
 
-**This repo is for release lomo-importer tool with binary:**
+**This repo is for release lomo-importer tool with binary on Mac and Windows:**
 
 # what is lomo-importer:
 
