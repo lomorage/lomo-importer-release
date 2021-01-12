@@ -1,0 +1,1 @@
+./deploy.sh /Users/liuliu/myproject/lomoware/lomo-win/src/Release/ LomoImporter.app mac
