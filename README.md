@@ -1,6 +1,12 @@
 # lomo-importer-release: 
 
-**This repo is for release lomo-importer tool with binary on Mac and Windows:**
+**This repo is for release lomo-importer tool with binary on Mac Os and Windows:**
+
+**Please check the release page.**
+
+**If you want to run this on other OS, please create issue or contact to us**
+
+**[Contact](https://lomorage.com/contact/)**
 
 # what is lomo-importer:
 
