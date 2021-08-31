@@ -6,7 +6,7 @@ echo -e "\033[0;32mDeploying lomoimpt.zip to GitHub...\033[0m"
 now=$(date +'%Y-%m-%d_%H-%M-%S')
 echo $now
 
-rm -fr *.zip
+#rm -fr *.zip
 
 ### $1
 orig_apk_path=$1
